@@ -1,2 +1,2 @@
 # tric
-Skateboard Encylcopedia built on react native
+Skateboard Encylcopedia built on flutter
